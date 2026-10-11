@@ -1,0 +1,15 @@
+# Third-party paper (Chen et al. 2021): cited in README, not redistributed
+insar_paper.pdf
+
+# Abstracts and correspondence stay local
+abstract_*.md
+reviewer_reply.md
+note_to_supervisor.md
+
+# Superseded draft; the final results document is Final/InSAR_CambridgeBay_Results.docx
+/InSAR_CambridgeBay_Results.docx
+
+# Tooling and OS files
+.claude/
+.DS_Store
+*.zip
