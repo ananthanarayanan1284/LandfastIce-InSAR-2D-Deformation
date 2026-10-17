@@ -7,8 +7,12 @@ answers two questions:
 1. **When does the ice become fixed?** This is the coherence onset.
 2. **How does it move afterwards?** The motion is split into east–west and vertical components.
 
-The results were presented as a conference talk by Ananthanarayanan B and
-Shamjid P, School of Digital Sciences, Digital University Kerala.
+The results were presented by Ananthanarayanan B and Shamjid P, School of
+Digital Sciences, Digital University Kerala, as a poster at
+[ECRS 2026](https://sciforum.net/event/ECRS2026), the 6th International
+Electronic Conference on Remote Sensing (MDPI, online, 19–21 October 2026),
+session S2 · SAR Remote Sensing. The abstract is at
+https://sciforum.net/paper/34580.
 
 ## Key results
 
@@ -27,7 +31,8 @@ Shamjid P, School of Digital Sciences, Digital University Kerala.
 | `figures/figures_2019/`, `figures/figures_2021/` | 11 figures per winter: study area, coherence time series and maps, descending and ascending interferograms, fringe evolution, Goldstein filtering, LOS time series, horizontal and vertical maps, H/V time series |
 | `figures/fig_talk_cross_winter.png` | Comparison of the two winters |
 | `Final/InSAR_CambridgeBay_Results.docx` | Results document containing all the figures |
-| `CambridgeBay_LandfastIce_InSAR_10min.pptx`, `..._15min.pptx` | Conference talks (10 and 15 minutes) |
+| `ECRS2026_Poster_LandfastIce_CambridgeBay_allpoints.pptx` | Final ECRS 2026 poster (A0 portrait) |
+| `CambridgeBay_LandfastIce_InSAR_10min.pptx`, `..._15min.pptx` | Talk versions (10 and 15 minutes) |
 | `InSAR_SeaIce_CambridgeBay_2021.ipynb`, `InSAR_SeaIce_CambridgeBay_Real.ipynb` | Earlier draft notebooks that reproduce Chen et al. (2021). They are kept for the record and are superseded by the FINAL notebooks. |
 
 ## Method in brief

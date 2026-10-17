@@ -13,3 +13,10 @@ note_to_supervisor.md
 .claude/
 .DS_Store
 *.zip
+
+# Poster drafts and the organisers' template stay local; only the final poster is tracked
+Poster_template.pptx
+ECRS2026_Poster_LandfastIce_CambridgeBay.pptx
+ECRS2026_Poster_LandfastIce_CambridgeBay_simplified.pptx
+ECRS2026_Poster_LandfastIce_CambridgeBay_revised.pptx
+ECRS2026_Poster_LandfastIce_CambridgeBay-*.pdf
